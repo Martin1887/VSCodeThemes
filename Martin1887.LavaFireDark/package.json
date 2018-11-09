@@ -1,0 +1,28 @@
+{
+	"name": "LavaFireDark",
+	"displayName": "Lava Fire Dark Theme",
+	"description": "Fork of Lava Theme darker with only warm colors (white, red, orange and yellow based)",
+	"version": "1.0.4",
+	"publisher": "Martin1887",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"homepage": "https://github.com/Martin1887/VSCodeThemes/tree/master/Martin1887.LavaFireDark/README.md",
+	"repository": {
+		"type": "https",
+		"url": "https://github.com/Martin1887/VSCodeThemes/tree/master/Martin1887.LavaFireDark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Lava Fire Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LavaFireDark.tmTheme"
+			}
+		]
+	}
+}
