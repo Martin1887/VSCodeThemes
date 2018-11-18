@@ -86,7 +86,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#BBBB87</string>
+					<string>#EEDD60</string>
 				</dict>
 			</dict>
 			<dict>
@@ -97,7 +97,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#BBBB87</string>
+					<string>#EEDD60</string>
 				</dict>
 			</dict>
 			<dict>
@@ -165,7 +165,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#BBBB87</string>
+					<string>#EEDD60</string>
 				</dict>
 			</dict>
 			<dict>
@@ -241,7 +241,7 @@
 					<key>fontStyle</key>
 					<string></string>
 					<key>foreground</key>
-					<string>#BBBB87</string>
+					<string>#EEDD60</string>
 				</dict>
 			</dict>
 			<dict>
@@ -252,7 +252,7 @@
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
-					<string>#BBBB87</string>
+					<string>#EEDD60</string>
 				</dict>
 			</dict>
 			<dict>

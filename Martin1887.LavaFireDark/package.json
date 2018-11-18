@@ -2,7 +2,7 @@
 	"name": "LavaFireDark",
 	"displayName": "Lava Fire Dark Theme",
 	"description": "Fork of Lava Theme darker with only warm colors (white, red, orange and yellow based)",
-	"version": "1.0.4",
+	"version": "1.0.6",
 	"publisher": "Martin1887",
 	"engines": {
 		"vscode": "^0.10.1"
